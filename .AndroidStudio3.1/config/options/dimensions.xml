@@ -1,0 +1,26 @@
+<application>
+  <component name="DimensionService">
+    <location key="#HTTP_Proxy.0.0.1366.768" x="467" y="118" />
+    <location key="WELCOME_SCREEN.0.0.1366.768" x="685" y="333" />
+    <location key="SettingsEditor.0.0.1366.768" x="323" y="21" />
+    <location key="FileChooserDialogImpl.0.0.1366.768" x="546" y="96" />
+    <location key="NewModule_or_Project.wizard.0.0.1366.768" x="360" y="37" />
+    <location key="com.intellij.ide.util.TipDialog.0.0.1366.768" x="349" y="190" />
+    <location key="#Project_Structure.0.0.1366.768" x="265" y="16" />
+    <location key="ProcessPopupWindow.0.0.1366.768" x="849" y="430" />
+    <location key="IdeErrosDialog.0.0.1366.768" x="307" y="207" />
+    <location key="AndroidThemeDialog.0.0.1366.768" x="263" y="70" />
+    <location key="deploy.picker.dialog.0.0.1366.768" x="363" y="120" />
+    <location key="AndroidCreateResourceDirectoryDialog.0.0.1366.768" x="263" y="120" />
+    <location key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog.0.0.1366.768" x="413" y="120" />
+    <location key="Github.ShareDialog.0.0.1366.768" x="475" y="241" />
+    <location key="Github.UntrackedFilesDialog.0.0.1366.768" x="253" y="80" />
+    <location key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate.0.0.1366.768" x="458" y="248" />
+    <size key="ProcessPopupWindow.0.0.1366.768" width="400" height="116" />
+    <size key="GridCell.Tab.0.left.0.0.1366.768" width="0" height="0" />
+    <size key="GridCell.Tab.0.center.0.0.1366.768" width="0" height="0" />
+    <size key="GridCell.Tab.0.right.0.0.1366.768" width="0" height="0" />
+    <size key="GridCell.Tab.0.bottom.0.0.1366.768" width="0" height="0" />
+    <size key="javadoc.popup.0.0.1366.768" width="446" height="170" />
+  </component>
+</application>

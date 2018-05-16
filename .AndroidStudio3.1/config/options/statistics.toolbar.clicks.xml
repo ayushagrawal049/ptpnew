@@ -1,0 +1,25 @@
+<application>
+  <component name="ToolbarClicksCollector">
+    <counts>
+      <entry action="Android.RunAndroidAvdManager@NavBarToolbar" count="1" />
+      <entry action="Android.RunAndroidSdkManager@NavBarToolbar" count="14" />
+      <entry action="Debug@NavBarToolbar" count="2" />
+      <entry action="FileChooser.GotoDesktop@FileChooserDialog" count="1" />
+      <entry action="FileChooser.NewFolder@FileChooserDialog" count="2" />
+      <entry action="MakeGradleProject@NavBarToolbar" count="1" />
+      <entry action="Run@NavBarToolbar" count="48" />
+      <entry action="com.android.tools.adtui.actions.DropDownAction@toolbar" count="1" />
+      <entry action="com.android.tools.adtui.workbench.AttachedToolWindow$GearAction@TOOL_WINDOW_TOOLBAR" count="11" />
+      <entry action="com.android.tools.adtui.workbench.AttachedToolWindow$SearchAction@TOOL_WINDOW_TOOLBAR" count="3" />
+      <entry action="com.android.tools.idea.common.actions.SetZoomAction@NlRhsConfigToolbar" count="20" />
+      <entry action="com.android.tools.idea.configurations.DeviceMenuAction@toolbar" count="4" />
+      <entry action="com.android.tools.idea.configurations.OrientationMenuAction@toolbar" count="2" />
+      <entry action="com.android.tools.idea.configurations.TargetMenuAction@toolbar" count="2" />
+      <entry action="com.android.tools.idea.configurations.ThemeMenuAction@toolbar" count="2" />
+      <entry action="com.android.tools.idea.gradle.project.build.invoker.GradleBuildInvoker$2$1@BuildView" count="1" />
+      <entry action="com.android.tools.idea.uibuilder.editor.NlActionManager$ViewActionToolbarMenuWrapper@toolbar" count="2" />
+      <entry action="com.android.tools.idea.uibuilder.property.editors.BrowsePanel$1@unknown" count="1" />
+      <entry action="com.android.tools.idea.uibuilder.property.editors.BrowsePanel$BrowseAction@unknown" count="4" />
+    </counts>
+  </component>
+</application>

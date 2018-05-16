@@ -1,0 +1,16 @@
+<application>
+  <component name="MainMenuCollector">
+    <counts>
+      <entry path="Build -&gt; Clean Project" count="1" />
+      <entry path="File -&gt; Close Project" count="9" />
+      <entry path="File -&gt; Import Settings..." count="1" />
+      <entry path="File -&gt; New -&gt; New Project..." count="6" />
+      <entry path="File -&gt; Open Recent -&gt; Reopen Project" count="6" />
+      <entry path="File -&gt; Project Structure..." count="2" />
+      <entry path="File -&gt; Settings..." count="8" />
+      <entry path="Tools -&gt; AVD Manager" count="3" />
+      <entry path="VCS -&gt; Import into Version Control -&gt; Share Project on GitHub" count="5" />
+      <entry path="VCS -&gt; Update Project" count="1" />
+    </counts>
+  </component>
+</application>

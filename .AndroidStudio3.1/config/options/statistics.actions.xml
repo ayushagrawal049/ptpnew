@@ -1,0 +1,43 @@
+<application>
+  <component name="ActionsCollector">
+    <counts>
+      <entry action="$Copy" count="2" />
+      <entry action="$Delete" count="11" />
+      <entry action="$SelectAll" count="4" />
+      <entry action="$Undo" count="182" />
+      <entry action="Android.RunAndroidAvdManager" count="4" />
+      <entry action="Android.RunAndroidSdkManager" count="14" />
+      <entry action="CleanGradleProject" count="1" />
+      <entry action="CloseProject" count="9" />
+      <entry action="CodeCompletion" count="1" />
+      <entry action="Debug" count="2" />
+      <entry action="EditorBackSpace" count="2317" />
+      <entry action="EditorChooseLookupItem" count="147" />
+      <entry action="EditorCopy" count="43" />
+      <entry action="EditorCut" count="11" />
+      <entry action="EditorDown" count="1091" />
+      <entry action="EditorEnter" count="117" />
+      <entry action="EditorLeft" count="163" />
+      <entry action="EditorPaste" count="80" />
+      <entry action="EditorRight" count="458" />
+      <entry action="EditorToggleInsertState" count="3" />
+      <entry action="EditorUp" count="868" />
+      <entry action="FileChooser.GotoDesktop" count="1" />
+      <entry action="FileChooser.NewFolder" count="2" />
+      <entry action="Github.Share" count="3" />
+      <entry action="HideAllWindows" count="1" />
+      <entry action="ImportSettings" count="1" />
+      <entry action="MakeGradleProject" count="1" />
+      <entry action="NewProject" count="6" />
+      <entry action="Override Resource in Other Configuration..." count="3" />
+      <entry action="Run" count="48" />
+      <entry action="ShowSettings" count="8" />
+      <entry action="Suppress_ Add tools_ignore= ButtonStyle  attribute" count="1" />
+      <entry action="Suppress_ Add tools_ignore= MissingConstraints  attribute" count="1" />
+      <entry action="ToggleLineBreakpoint" count="2" />
+      <entry action="Vcs.UpdateProject" count="1" />
+      <entry action="template.create.ActivityBasic Activity" count="1" />
+      <entry action="template.create.ActivityEmpty Activity" count="6" />
+    </counts>
+  </component>
+</application>
